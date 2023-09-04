@@ -1,0 +1,19 @@
+{
+  "name": "react-backend",
+  "version": "0.1.0",
+  "description": "Backend server",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "",
+  "dependencies": {
+    "body-parser": "1.13.3",
+    "chalk": "1.1.1",
+    "cors": "^2.8.1",
+    "express": "4.13.3",
+    "lodash": "3.10.1"
+  }
+}
